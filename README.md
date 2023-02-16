@@ -10,7 +10,7 @@ The image vectors were extracted using Pretrained SE-ResNext.
 The methodology was comprehensively verified by utilizing a total of three datasets with Coco dataset, Fakeddit dataset, and Tour dataset.
 
 ___
-[Link to paper](http://kookmin.dcollection.net/public_resource/pdf/200000667871_20230216234606.pdf)
+[Link to paper](http://kookmin.dcollection.net/srch/srchDetail/200000667871?ajax=false&start=0&query=%28ins_code%3A211014%29+AND++%2B%28%28all%3Asvm%EC%9D%84%2B%EC%9D%B4%EC%9A%A9%ED%95%9C%29%29&sortDir=desc&pageSize=10&searchKeyWord1=svm%EC%9D%84+%EC%9D%B4%EC%9A%A9%ED%95%9C&searchWhere1=all&searchTotalCount=0&navigationSize=10&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3Esvm%EC%9D%84+%EC%9D%B4%EC%9A%A9%ED%95%9C%3C%2Fspan%3E%5D&pageNum=1&rows=10&insCode=211014&searthTotalPage=0&sortField=score)
 
 [Link to Presentation](https://www.notion.so/50d7eadf7aa04a539b6af8820a1cad88)
 
